@@ -4,8 +4,7 @@
   "description": "Simple RSS reader",
   "private": true,
   "scripts": {
-    "test": "jest --colors",
-    "build": "webpack"
+    "test": "jest --colors"
   },
   "repository": {
     "type": "git",
