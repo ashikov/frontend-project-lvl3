@@ -15,10 +15,3 @@ lint:
 	npx eslint .
 
 .PHONY: test
-
-vercel-install:
-	npm install -g webpack webpack-cli html-webpack-plugin
-	npm ci
-
-vercel-build:
-	webpack
