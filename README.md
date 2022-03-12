@@ -6,4 +6,4 @@
 
 ## Deployed project
 
-![Check It Out](https://ashikov-frontend-project-lvl3.vercel.app/)
+[Check It Out](https://ashikov-frontend-project-lvl3.vercel.app/)
